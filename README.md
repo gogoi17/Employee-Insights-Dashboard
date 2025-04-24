@@ -2,7 +2,7 @@
 
 ### Project Overview 
 This project analyzes HR data to identify key trends influencing employee attrition.
-Using Power BI, it visualizes metrics such as age, income, job roles, and tenure.
+Using Power BI it visualizes metrics such as age, income, and job roles.
 The dashboard explores patterns in job satisfaction and departmental performance.
 It highlights high-risk groups and helps identify areas for HR intervention.
 The goal is to support data-driven strategies for improving employee retention.
